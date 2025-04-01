@@ -47,8 +47,8 @@ As a simple example: the model for a MOS transistor as proposed by Shichman and 
 ```
 model:   "MOSFET level 1"
 author:  "© parx.middelhoek.com <support@middelhoek.com>"
-ident:   "Static model MOSFET level 1"
-date:    "2025/01/01"
+ident:   "Shichman and Hodges"
+date:    "2025-01-01"
 version: "1.0.0"
 
 var: vgs = {1u} V
